@@ -1,0 +1,7 @@
+D:\Source\Repos\Projects\Codewars\Codewars-SumTwoSmallestNumbers-\SumTwoSmallestNumbers\SumTwoSmallestNumbersApp\bin\Debug\SumTwoSmallestNumbersApp.exe.config
+D:\Source\Repos\Projects\Codewars\Codewars-SumTwoSmallestNumbers-\SumTwoSmallestNumbers\SumTwoSmallestNumbersApp\bin\Debug\SumTwoSmallestNumbersApp.exe
+D:\Source\Repos\Projects\Codewars\Codewars-SumTwoSmallestNumbers-\SumTwoSmallestNumbers\SumTwoSmallestNumbersApp\bin\Debug\SumTwoSmallestNumbersApp.pdb
+D:\Source\Repos\Projects\Codewars\Codewars-SumTwoSmallestNumbers-\SumTwoSmallestNumbers\SumTwoSmallestNumbersApp\obj\Debug\SumTwoSmallestNumbersApp.csprojAssemblyReference.cache
+D:\Source\Repos\Projects\Codewars\Codewars-SumTwoSmallestNumbers-\SumTwoSmallestNumbers\SumTwoSmallestNumbersApp\obj\Debug\SumTwoSmallestNumbersApp.csproj.CoreCompileInputs.cache
+D:\Source\Repos\Projects\Codewars\Codewars-SumTwoSmallestNumbers-\SumTwoSmallestNumbers\SumTwoSmallestNumbersApp\obj\Debug\SumTwoSmallestNumbersApp.exe
+D:\Source\Repos\Projects\Codewars\Codewars-SumTwoSmallestNumbers-\SumTwoSmallestNumbers\SumTwoSmallestNumbersApp\obj\Debug\SumTwoSmallestNumbersApp.pdb
